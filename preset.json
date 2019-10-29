@@ -1,0 +1,7 @@
+{
+    "useConfigFiles": true,
+    "plugins": {
+        "@vue/cli-plugin-babel": {},
+        "vue-cli-plugin-build-lib": {}
+    }
+}
